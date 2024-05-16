@@ -1,0 +1,13 @@
+# Project
+test/dev/
+
+# build
+CMakeLists.txt
+build/
+cmake-build-debug/
+
+# Jetbrain
+.idea/
+
+# macOs
+.DS_Store
